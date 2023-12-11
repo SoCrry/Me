@@ -1,6 +1,5 @@
 # Начало пути с JAVA
-![bRppN5nTePY.jpg](..%2F..%2FPictures%2FbRppN5nTePY.jpg)
-
+![bRppN5nTePY.jpg](bRppN5nTePY.jpg)
 ### Всем hello world. Меня зовут Карен и в сентябре 2023 года я начал занятия по JAVA в Нетологии.
 #### _Мой путь тернист и я не вечен, но звёздный свет, он бесконечен_.
 
